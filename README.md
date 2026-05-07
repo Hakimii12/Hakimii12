@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm AbdulHakim Ago  
+### AI Engineer | Full-Stack Developer
 
-<!--
-**Hakimii12/Hakimii12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Ethiopia  
+🌐 Personal Website | 💼 LinkedIn | 📸 Instagram  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+With 4+ years of experience, I’m an AI-focused engineer and full-stack developer passionate about building scalable, intelligent, and production-ready systems.
+
+I specialize in designing end-to-end applications that combine modern frontend experiences, scalable backend infrastructure, and AI-powered automation.
+
+- 🧠 **AI Engineering:** Building intelligent AI-powered systems including RAG pipelines, AI assistants, automation workflows, and machine learning integrations.
+- ⚡ **Full-Stack Development:** Developing scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) alongside FastAPI for high-performance backend services and APIs.
+- ☁️ **Cloud & DevOps:** Working with Docker, cloud deployment, and modern development workflows to build reliable and production-ready systems.
+
+---
+
+## 🎯 Current Focus
+
+- 🏙️ Building SmartCityConnect, an AI-powered civic issue management platform for reporting and analyzing infrastructure problems using AI and geolocation.
+- 🎓 Developing an AI-powered school management platform with intelligent automation and modern full-stack architecture.
+- 🤖 Exploring AI integrations, scalable backend systems, and real-world automation workflows.
+- 💡 Continuously improving my skills in system design, problem solving, and modern software engineering. 
+
+---
+
+# 🧰 Tech Stack
+
+## 🤖 AI & Machine Learning
+- LangChain  
+- LangGraph  
+- Vertex AI  
+- Pydantic AI  
+- PyTorch  
+- Transformers  
+
+## 🛠️ Backend & Frameworks
+- Python  
+- FastAPI  
+- Django  
+- Node.js  
+- Go  
+
+## 🌐 Frontend
+- React  
+- TypeScript  
+- JavaScript  
+- TailwindCSS  
+- Socket.io  
+
+## ☁️ Cloud & DevOps
+- AWS  
+- Google Cloud  
+- Docker  
+- Vercel  
+- Git & GitHub  
+
+## ⚙️ Databases & Automation
+- PostgreSQL  
+- MySQL  
+- Redis  
+- n8n  
+- Zapier  
+
+---
+
+## 💡 Engineering Philosophy
+
+I enjoy solving complex real-world problems through scalable architecture, automation, and AI-driven systems. I care deeply about performance, maintainability, and building products that create meaningful impact.
+
+---
