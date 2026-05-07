@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-With 4+ years of experience, I’m an AI-focused engineer and full-stack developer passionate about building scalable, intelligent, and production-ready systems.
+I’m a full-stack developer and AI-focused software engineer passionate about building scalable, real-world applications and intelligent systems.
 
-I specialize in designing end-to-end applications that combine modern frontend experiences, scalable backend infrastructure, and AI-powered automation.
+My experience includes developing end-to-end platforms using modern frontend technologies, scalable backend architectures, and AI-powered features that solve practical problems.
 
-- 🧠 **AI Engineering:** Building intelligent AI-powered systems including RAG pipelines, AI assistants, automation workflows, and machine learning integrations.
-- ⚡ **Full-Stack Development:** Developing scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) alongside FastAPI for high-performance backend services and APIs.
-- ☁️ **Cloud & DevOps:** Working with Docker, cloud deployment, and modern development workflows to build reliable and production-ready systems.
+- 🧠 **AI & Intelligent Systems:** Building AI-powered applications, automation workflows, semantic search systems, and machine learning integrations using modern AI frameworks and APIs.
+- ⚡ **Full-Stack Development:** Creating scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) together with FastAPI for high-performance backend services and APIs.
+- ☁️ **Cloud & Deployment:** Working with Docker, cloud services, REST APIs, and modern deployment workflows to deliver reliable and production-ready systems.
 
 ---
 
