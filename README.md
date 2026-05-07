@@ -2,7 +2,9 @@
 ### AI Engineer | Full-Stack Developer
 
 🌍 Ethiopia  
-🌐 Personal Website | 💼 LinkedIn | 📸 Instagram  
+🌐 [Personal Website](https://myportofolio-u9ji.onrender.com/) | 
+💼 [LinkedIn](https://linkedin.com/in/abdulhakim-hakim-464531347) | 
+📸 [Instagram](https://instagram.com/a.hakim259) 
 
 ---
 
