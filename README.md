@@ -32,12 +32,14 @@ My experience includes developing end-to-end platforms using modern frontend tec
 # 🧰 Tech Stack
 
 ## 🤖 AI & Machine Learning
-- LangChain  
-- LangGraph  
-- Vertex AI  
-- Pydantic AI  
 - PyTorch  
 - Transformers  
+- Hugging Face  
+- Scikit-learn  
+- Keras  
+- Llama.cpp  
+- AI API Integrations  
+- NLP & Text Similarity Systems    
 
 ## 🛠️ Backend & Frameworks
 - Python  
@@ -63,8 +65,7 @@ My experience includes developing end-to-end platforms using modern frontend tec
 ## ⚙️ Databases & Automation
 - PostgreSQL  
 - MySQL  
-- Redis  
-- n8n  
+- Mongodb  
 - Zapier  
 
 ---
